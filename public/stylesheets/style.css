@@ -1,7 +1,8 @@
 body {
   background-color: rgb(164, 216, 231);
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 'Comic Neue', cursive;
+  font-size: 14px;
 }
 #title {
   position: absolute;
@@ -19,6 +20,7 @@ body {
 
 a {
   color: #e0b130;
+  font-size: 200px;
 }
 
 #footer-h4 {
